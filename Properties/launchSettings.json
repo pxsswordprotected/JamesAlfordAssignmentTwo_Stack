@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JamesAlfordAssignmentTwo": {
+      "commandName": "Project",
+      "commandLineArgs": "< c:\\temp\\myinput2.txt"
+    }
+  }
+}
